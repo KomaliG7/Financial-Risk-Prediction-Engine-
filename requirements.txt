@@ -1,0 +1,12 @@
+python>=3.9
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+joblib
+fastapi       # optional for deployment
+uvicorn       # optional
+imblearn      # (imbalanced-learn) optional
